@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\ASUS\source\repos\Test_C_2\Layered_Service_Providers_Install_Uninstall\main.cpp(32,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\source\repos\Test_C_2\Layered_Service_Providers_Install_Uninstall\main.cpp(69,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\source\repos\Test_C_2\Layered_Service_Providers_Install_Uninstall\main.cpp(108,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\source\repos\Test_C_2\Layered_Service_Providers_Install_Uninstall\main.cpp(159,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\source\repos\Test_C_2\Layered_Service_Providers_Install_Uninstall\main.cpp(167,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\source\repos\Test_C_2\Layered_Service_Providers_Install_Uninstall\main.cpp(65,11): warning C4101: “myId”: 未引用的局部变量
+C:\Users\ASUS\source\repos\Test_C_2\Layered_Service_Providers_Install_Uninstall\main.cpp(49,9): warning C4101: “i”: 未引用的局部变量
+C:\Users\ASUS\source\repos\Test_C_2\Layered_Service_Providers_Install_Uninstall\main.cpp(214,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\source\repos\Test_C_2\Layered_Service_Providers_Install_Uninstall\main.cpp(221,11): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\ASUS\source\repos\Test_C_2\Layered_Service_Providers_Install_Uninstall\main.cpp(223,23): warning C4018: “<”: 有符号/无符号不匹配
+  Layered_Service_Providers_Install_Uninstall.vcxproj -> C:\Users\ASUS\source\repos\Test_C_2\Debug\Layered_Service_Providers_Install_Uninstall.exe

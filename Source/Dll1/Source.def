@@ -1,0 +1,3 @@
+LIBRARY Dll1
+EXPORTS
+WSPStartup

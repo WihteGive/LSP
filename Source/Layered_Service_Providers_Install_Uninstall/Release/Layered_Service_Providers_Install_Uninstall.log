@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\ASUS\source\repos\Test_C_2\Layered_Service_Providers_Install_Uninstall\main.cpp(31,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\source\repos\Test_C_2\Layered_Service_Providers_Install_Uninstall\main.cpp(68,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\source\repos\Test_C_2\Layered_Service_Providers_Install_Uninstall\main.cpp(107,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\source\repos\Test_C_2\Layered_Service_Providers_Install_Uninstall\main.cpp(158,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\source\repos\Test_C_2\Layered_Service_Providers_Install_Uninstall\main.cpp(166,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\source\repos\Test_C_2\Layered_Service_Providers_Install_Uninstall\main.cpp(64,11): warning C4101: “myId”: 未引用的局部变量
+C:\Users\ASUS\source\repos\Test_C_2\Layered_Service_Providers_Install_Uninstall\main.cpp(48,9): warning C4101: “i”: 未引用的局部变量
+C:\Users\ASUS\source\repos\Test_C_2\Layered_Service_Providers_Install_Uninstall\main.cpp(213,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ASUS\source\repos\Test_C_2\Layered_Service_Providers_Install_Uninstall\main.cpp(220,11): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\ASUS\source\repos\Test_C_2\Layered_Service_Providers_Install_Uninstall\main.cpp(222,23): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Layered_Service_Providers_Install_Uninstall.vcxproj -> C:\Users\ASUS\source\repos\Test_C_2\Release\Layered_Service_Providers_Install_Uninstall.exe

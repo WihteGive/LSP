@@ -1,0 +1,9 @@
+﻿  Dll1.cpp
+    正在创建库 C:\Users\ASUS\source\repos\Test_C_2\Release\Dll1.lib 和对象 C:\Users\ASUS\source\repos\Test_C_2\Release\Dll1.exp
+  正在生成代码
+C:\Users\ASUS\source\repos\Test_C_2\Dll1\Dll1.cpp(206): warning C4715: “WSPStartup”: 不是所有的控件路径都返回值
+  7 of 10 functions (70.0%) were compiled, the rest were copied from previous compilation.
+    5 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Dll1.vcxproj -> C:\Users\ASUS\source\repos\Test_C_2\Release\Dll1.dll
